@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VenuesSearch</string>
+    <string name="locating_device">Locating device</string>
+    <string name="searching_venues">Searching venues</string>
+    <string name="no_address">No address</string>
+    <string name="error">Error</string>
+    <string name="no_venues">No venues</string>
+</resources>
